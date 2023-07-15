@@ -1,5 +1,5 @@
 # Bubble Shooter Tutorial
-#### Contains the finished code for the Bubble Shooter Tutorial [Hosted on HexQuill](hexquill.wordpress.com/2023/07/12/create-a-bubble-popping-adventure-part-1/)
+#### Contains the finished code for the Bubble Shooter Tutorial [Hosted on HexQuill](https://hexquill.wordpress.com/2023/07/12/create-a-bubble-popping-adventure-part-1/)
 
 
 Unity Engine Version: 2019+
